@@ -8,6 +8,7 @@ const indexModule = (process.env.MAIN ? path.resolve(process.env.MAIN) : path.jo
 const {default: pluralizeInclusive} = indexModule
 
 it("should run", () => {
-  const result = pluralizeInclusive()
-  expect(result).toBeGreaterThan(1549410770)
+  expect(pluralizeInclusive("Banana", 3)).toBe("3 Bananas")
+  expect(pluralizeInclusive("Bananas", 1)).toBe("1 Banana")
+  expect(pluralizeInclusive("Bananas")).toBe("undefined Bananas")
 })
