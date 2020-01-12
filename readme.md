@@ -1,34 +1,64 @@
 # pluralize-inclusive
 
 
-pluralize package with &#x27;inclusive&#x27; parameter set to true by default.
+<a href="https://raw.githubusercontent.com/Jaid/pluralize-inclusive/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/pluralize-inclusive?style=flat-square" alt="License"/></a>  
+<a href="https://actions-badge.atrox.dev/Jaid/pluralize-inclusive/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fpluralize-inclusive%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/commits-since/Jaid/pluralize-inclusive/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/last-commit/Jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/issues"><img src="https://img.shields.io/github/issues/Jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/v/pluralize-inclusive?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/pluralize-inclusive?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/dm/pluralize-inclusive?style=flat-square&logo=npm" alt="Downloads"/></a>
+
+**pluralize package with 'inclusive' parameter set to true by default.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
-<a href='https://npmjs.com/package/pluralize-inclusive'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
+<a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/badge/npm-pluralize--inclusive-C23039?style=flat-square&logo=npm" alt="pluralize-inclusive on npm"/></a>
 ```bash
 npm install --save pluralize-inclusive@^1.0.0
 ```
-<a href='https://yarnpkg.com/package/pluralize-inclusive'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
+<a href="https://yarnpkg.com/package/pluralize-inclusive"><img src="https://img.shields.io/badge/Yarn-pluralize--inclusive-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="pluralize-inclusive on Yarn"/></a>
 ```bash
 yarn add pluralize-inclusive@^1.0.0
 ```
-
-
-## Try it out
-<img alt='Chromium logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/browser.png'/>
-Open a browser's JavaScript console and execute:
-
-```javascript
-const scriptElement = document.createElement("script");
-scriptElement.setAttribute("type","text/javascript");
-scriptElement.setAttribute("src","https://unpkg.com/pluralize-inclusive@1.0.0");
-document.querySelector("head").appendChild(scriptElement);
+<a href="https://jsdelivr.com/package/npm/pluralize-inclusive/"><img src="https://img.shields.io/badge/jsDelivr-pluralize--inclusive-orange?style=flat-square&logo=html5&logoColor=white" alt="pluralize-inclusive on jsDelivr"/></a> <a href="https://unpkg.com/browse/pluralize-inclusive/"><img src="https://img.shields.io/badge/UNPKG-pluralize--inclusive-orange?style=flat-square&logo=html5&logoColor=white" alt="pluralize-inclusive on UNPKG"/></a>
+```html
+<script src="https://cdn.jsdelivr.net/npm/pluralize-inclusive@1.0.0/index.js"/>
 ```
 
-This module is now loaded in a variable that can be accessed in any scope.
 
-```javascript
-typeof pluralizeInclusive.default
+
+
+
+
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/pluralize-inclusive.git
+cd pluralize-inclusive
+npm install
+```
+Testing:
+```bash
+npm run test:dev
+```
+Testing in production environment:
+```bash
+npm run test
 ```
 
 
@@ -36,7 +66,7 @@ typeof pluralizeInclusive.default
 ```text
 MIT License
 
-Copyright © 2019, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
+Copyright © 2020, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
