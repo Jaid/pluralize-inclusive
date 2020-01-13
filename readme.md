@@ -1,9 +1,9 @@
 # pluralize-inclusive
 
 
-<a href="https://raw.githubusercontent.com/Jaid/pluralize-inclusive/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/pluralize-inclusive?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/pluralize-inclusive/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fpluralize-inclusive%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/commits-since/Jaid/pluralize-inclusive/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/last-commit/Jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/issues"><img src="https://img.shields.io/github/issues/Jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/v/pluralize-inclusive?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/pluralize-inclusive/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/pluralize-inclusive?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/dm/pluralize-inclusive?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/pluralize-inclusive/master/license.txt"><img src="https://img.shields.io/github/license/jaid/pluralize-inclusive?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor pluralize-inclusive"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/pluralize-inclusive/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fpluralize-inclusive%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/commits-since/jaid/pluralize-inclusive/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/jaid/pluralize-inclusive/commits"><img src="https://img.shields.io/github/last-commit/jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/pluralize-inclusive/issues"><img src="https://img.shields.io/github/issues/jaid/pluralize-inclusive?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/v/pluralize-inclusive?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/pluralize-inclusive/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/pluralize-inclusive?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/pluralize-inclusive"><img src="https://img.shields.io/npm/dm/pluralize-inclusive?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **pluralize package with 'inclusive' parameter set to true by default.**
 
@@ -41,14 +41,13 @@ yarn add pluralize-inclusive@^1.0.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/pluralize-inclusive.git
+git clone git@github.com:jaid/pluralize-inclusive.git
 cd pluralize-inclusive
 npm install
 ```
