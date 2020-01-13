@@ -32,5 +32,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "pluralize-inclusive",
-  "description": "pluralize package with 'inclusive' parameter set to true by default."
+  "description": "pluralize package with 'inclusive' parameter set to true by default.",
+  "funding": "https://github.com/sponsors/jaid"
 }
