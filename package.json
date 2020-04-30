@@ -31,12 +31,22 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "pluralize-inclusive",
-  "description": "pluralize package with 'inclusive' parameter set to true by default.",
+  "description": "[No longer supported. Use zahl instead.] pluralize package with 'inclusive' parameter set to true by default.",
   "funding": "https://github.com/sponsors/jaid",
   "repository": {
     "type": "git",
     "url": "https://github.com/jaid/pluralize-inclusive"
   },
   "homepage": "https://github.com/Jaid/pluralize-inclusive",
-  "keywords": []
+  "keywords": [
+    "format",
+    "lib",
+    "library",
+    "plural",
+    "pluralize",
+    "strings",
+    "util",
+    "utility",
+    "zahl"
+  ]
 }
