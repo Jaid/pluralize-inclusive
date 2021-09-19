@@ -48,5 +48,6 @@
     "util",
     "utility",
     "zahl"
-  ]
+  ],
+  "type": "module"
 }
